@@ -24,9 +24,13 @@ This extends previous functionality from the `find_homologs.sh` script by incorp
 
 ## 📁 Repository Structure
 - `Escherichia_coli_K12.fna`: example bacteria assembly for Escherichia coli (example query data)
+- `Escherichia_coli_K12.bed`: example bacteria bed file for Escherichia coli containing gene name (example bed file)
 - `Pseudomonas_aeruginosa_UCBPP-PA14.fna`: example bacteria assembly for Pseudomonas aeruginosa (example query data)
+- `Pseudomonas_aeruginosa_UCBPP-PA14.fna`: example bacteria bed file for Pseudomonas aeruginosa containing gene name (example bed file)
 - `Vibrio_cholerae_N16961.fna`: example bacteria assembly for Vibrio cholerae (example query data)
+- `Vibrio_cholerae_N16961.fna`: example bacteria bed file for Vibrio cholerae containing gene name (example bed file)
 - `Wolbachia.fna`: example bacteria assembly for Wolbachia (example query data)
+- `Wolbachia.fna`: example bacteria bed file for Wolbachia containing gene name (example bed file)
 - `HK_domain.faa`: sequence of histidine kinase (HK) domains from the organism Escherichia coli strain K-12 (example subject file)
 - `homolog_identify.sh`: script that contains all commands
 
